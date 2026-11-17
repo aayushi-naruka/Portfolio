@@ -17,7 +17,7 @@ export default function Contact() {
           <div className="social-links">
             <a href="https://www.linkedin.com/in/aayushi-naruka" target="_blank" rel="noreferrer">LINKEDIN <Arrow diagonal /></a>
             <a href="https://github.com/aayushi-naruka" target="_blank" rel="noreferrer">GITHUB <Arrow diagonal /></a>
-            <a href="/AAYUSHI_NARUKA_RESUME.pdf" target="_blank" rel="noreferrer">RÉSUMÉ <Arrow diagonal /></a>
+            <a href="https://drive.google.com/file/d/13MqZKgkZrL5IclwoQ9o9ABfam9Q4fJdq/view?usp=sharing" target="_blank" rel="noopener noreferrer">RÉSUMÉ <Arrow diagonal /></a>
           </div>
         </div>
       </div>

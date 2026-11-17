@@ -13,7 +13,7 @@ export default function Hero() {
         </p>
         <div className="hero-actions">
           <a className="button button-primary" href="#experience">Explore my work <Arrow /></a>
-          <a className="text-link" href="/AAYUSHI_NARUKA_RESUME.pdf" target="_blank" rel="noreferrer">View résumé <Arrow diagonal /></a>
+          <a className="text-link" href="https://drive.google.com/file/d/13MqZKgkZrL5IclwoQ9o9ABfam9Q4fJdq/view?usp=sharing" target="_blank" rel="noopener noreferrer">View résumé <Arrow diagonal /></a>
         </div>
         <div className="hero-meta"><span>BASED IN BENGALURU, INDIA</span><span>AVAILABLE WORLDWIDE <i>↗</i></span></div>
       </div>
